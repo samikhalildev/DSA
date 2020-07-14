@@ -1,4 +1,4 @@
 class Node():
-    def __init__(self, val, next=None):
-        self.val = val
+    def __init__(self, data, next=None):
+        self.data = data
         self.next = next
