@@ -90,7 +90,8 @@ class HashTable:
 hashTable = HashTable()
 
 hashTable.setItem('name', 'Sami')
-hashTable.setItem('age', 24)
+hashTable.setItem('age', 100)
+
 print(hashTable.getItem('name'))
 print(hashTable.getItem('age'))
 
